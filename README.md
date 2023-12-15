@@ -1,5 +1,5 @@
 
->[!NOTE] Objectifs :
+> [!NOTE] Objectifs :
 >Trouver le plus grand carré dans une carte précisé ou générée par le générateur de map.
 
 >[!FAQ] MAP
